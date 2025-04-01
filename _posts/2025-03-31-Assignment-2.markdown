@@ -18,6 +18,9 @@ In 2018, the city of San Francisco has started changing out their old sodium lig
 <iframe src="https://zbyslawmateo.github.io/assets/bokeh_plot.html" width="100%" height="600px" style="border:none;"></iframe>
 <p align=center>A bokeh plot showing improvement of nighttime security after installing new lamps </p>
 
+Contributions
+All exercises were completed collaboratively during our group work sessions, where we discussed and solved the problems together.
+
 Citations
 
 1.	https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=594.&lawCode=PEN
